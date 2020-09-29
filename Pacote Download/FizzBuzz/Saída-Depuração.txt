@@ -1,0 +1,19 @@
+﻿"FizzBuzz.exe" (Win32): Carregado "C:\Users\isabe\source\repos\FizzBuzz\Debug\FizzBuzz.exe". Símbolos carregados.
+"FizzBuzz.exe" (Win32): Carregado "C:\Windows\SysWOW64\ntdll.dll". 
+"FizzBuzz.exe" (Win32): Carregado "C:\Windows\SysWOW64\kernel32.dll". 
+"FizzBuzz.exe" (Win32): Carregado "C:\Windows\SysWOW64\KernelBase.dll". 
+"FizzBuzz.exe" (Win32): Carregado "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"FizzBuzz.exe" (Win32): Carregado "C:\Windows\SysWOW64\ucrtbased.dll". 
+O thread 0x5bf0 foi fechado com o código 0 (0x0).
+"FizzBuzz.exe" (Win32): Carregado "C:\Windows\SysWOW64\sechost.dll". 
+"FizzBuzz.exe" (Win32): Carregado "C:\Windows\SysWOW64\rpcrt4.dll". 
+"FizzBuzz.exe" (Win32): Carregado "C:\Windows\SysWOW64\sspicli.dll". 
+"FizzBuzz.exe" (Win32): Carregado "C:\Windows\SysWOW64\cryptbase.dll". 
+"FizzBuzz.exe" (Win32): Carregado "C:\Windows\SysWOW64\bcryptprimitives.dll". 
+"FizzBuzz.exe" (Win32): Carregado "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"FizzBuzz.exe" (Win32): Carregado "C:\Windows\SysWOW64\msvcrt.dll". 
+O thread 0x3a50 foi fechado com o código 0 (0x0).
+O thread 0x2a10 foi fechado com o código 0 (0x0).
+O thread 0x5b80 foi fechado com o código 0 (0x0).
+O thread 0x190c foi fechado com o código 0 (0x0).
+O programa "[5328] FizzBuzz.exe" foi fechado com o código 0 (0x0).
