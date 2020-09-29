@@ -1,0 +1,16 @@
+﻿  PesquisaMercado.cpp
+C:\Users\isabe\source\repos\EmpresaMercado\EmpresaMercado\PesquisaMercado.cpp(83,24): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\isabe\source\repos\EmpresaMercado\EmpresaMercado\PesquisaMercado.cpp(99,24): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\isabe\source\repos\EmpresaMercado\EmpresaMercado\PesquisaMercado.cpp(103,28): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\isabe\source\repos\EmpresaMercado\EmpresaMercado\PesquisaMercado.cpp(111,24): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\isabe\source\repos\EmpresaMercado\EmpresaMercado\PesquisaMercado.cpp(115,28): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\isabe\source\repos\EmpresaMercado\EmpresaMercado\PesquisaMercado.cpp(123,24): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\isabe\source\repos\EmpresaMercado\EmpresaMercado\PesquisaMercado.cpp(127,28): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\isabe\source\repos\EmpresaMercado\EmpresaMercado\PesquisaMercado.cpp(135,24): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\isabe\source\repos\EmpresaMercado\EmpresaMercado\PesquisaMercado.cpp(139,28): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\isabe\source\repos\EmpresaMercado\EmpresaMercado\PesquisaMercado.cpp(147,24): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\isabe\source\repos\EmpresaMercado\EmpresaMercado\PesquisaMercado.cpp(151,28): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\isabe\source\repos\EmpresaMercado\EmpresaMercado\PesquisaMercado.cpp(159,24): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\isabe\source\repos\EmpresaMercado\EmpresaMercado\PesquisaMercado.cpp(163,28): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\isabe\source\repos\EmpresaMercado\EmpresaMercado\PesquisaMercado.cpp(23,7): warning C4101: 'produto': variável local não referenciada
+  EmpresaMercado.vcxproj -> C:\Users\isabe\source\repos\EmpresaMercado\Debug\EmpresaMercado.exe

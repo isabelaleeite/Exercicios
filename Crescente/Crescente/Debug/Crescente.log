@@ -1,0 +1,3 @@
+﻿  Crescente.cpp
+C:\Users\isabe\source\repos\Crescente\Crescente\Crescente.cpp(7,6): warning C4101: 'num': variável local não referenciada
+  Crescente.vcxproj -> C:\Users\isabe\source\repos\Crescente\Debug\Crescente.exe
